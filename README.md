@@ -5,17 +5,16 @@ A Claude Code plugin marketplace of personal skills.
 ## Install
 
 ```
-/plugin marketplace add /Users/pradeep/projects/pradeep-skills
+/plugin marketplace add pradeep-stellar/pradeep-skills
 /plugin install command-line-prog-creator@pradeep-skills
 ```
 
-Once pushed to GitHub, use `/plugin marketplace add <owner>/pradeep-skills` instead.
 
 ## Plugins
 
 | Plugin | Skill | Description |
 | --- | --- | --- |
-| `command-line-prog-creator` | `command-line-prog-creator` | Design and build well-behaved command-line programs. |
+| `command-line-prog-creator` | `command-line-prog-creator` | Design and build well-behaved command-line programs.via [Mark Watson](https://mark-watson.blogspot.com/2026/10/skillmd-file-to-convert-large-python.html) |
 
 ## Layout
 
