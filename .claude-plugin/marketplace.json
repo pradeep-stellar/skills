@@ -1,0 +1,20 @@
+{
+  "name": "pradeep-skills",
+  "owner": {
+    "name": "Pradeep"
+  },
+  "metadata": {
+    "description": "Pradeep's personal marketplace of Claude Code skills",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "command-line-prog-creator",
+      "source": "./plugins/command-line-prog-creator",
+      "description": "Design and build well-behaved command-line programs: argument parsing, help text, exit codes, stdout/stderr discipline, config, tests, and packaging.",
+      "version": "0.1.0",
+      "category": "development",
+      "keywords": ["cli", "command-line", "scaffolding"]
+    }
+  ]
+}

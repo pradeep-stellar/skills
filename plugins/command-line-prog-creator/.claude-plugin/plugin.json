@@ -1,0 +1,9 @@
+{
+  "name": "command-line-prog-creator",
+  "version": "0.1.0",
+  "description": "Design and build well-behaved command-line programs: argument parsing, help text, exit codes, stdout/stderr discipline, config, tests, and packaging.",
+  "author": {
+    "name": "Pradeep"
+  },
+  "keywords": ["cli", "command-line", "scaffolding"]
+}
